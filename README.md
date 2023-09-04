@@ -3,6 +3,9 @@ I'm currently vibin' and learning.
 
   / Y'know: school and stuff.
 
+### LeArnIng
+<iframe width="1280" height="828" src="https://www.youtube.com/embed/AvH6-rK5lFE?list=PLytwpzD1KWihq29z20hbXU1LN0QBpuPB3" title="The Tapestry Vol. 2: Eldritch Cruise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <!--
 **SA-Nullarc/SA-Nullarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
