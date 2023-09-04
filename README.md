@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hey-o(!): random or not random person on the interweb.
+I'm currently vibin' and learning.
+  / Y'know: school and stuff.
+
 
 <!--
 **SA-Nullarc/SA-Nullarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
